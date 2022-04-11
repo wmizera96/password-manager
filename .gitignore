@@ -1,3 +1,6 @@
 
 PasswordManager.Test/obj
 PasswordManager.Web/obj
+PasswordManager.Test/bin
+PasswordManager.Web/bin
+.vs
